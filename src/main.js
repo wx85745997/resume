@@ -1,5 +1,5 @@
 
-const TIME = 0
+const TIME = 30
 const CODE = {
     style: [
         `/*
@@ -101,8 +101,8 @@ html{
   ----
   * [GitHub](https://github.com/wx85745997)
   * [我的博客](http://blog.tangfei.me/)
-  > 如果你喜欢这个效果，
-  Fork [我的项目](https://github.com/jirengu-inc/animating-resume)，打造你自己的简历！
+  > 如果你对我的这个简历有兴趣欢迎Start或Fork
+   [我的项目](https://github.com/wx85745997/resume)
 `
 }
 

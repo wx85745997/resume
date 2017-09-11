@@ -1,7 +1,6 @@
 {
-  "name": "webpack-black-triangle",
+  "name": "",
   "version": "0.1.0",
-  "description": "A minimal webpack/ES6 project template with a spinning black triangle",
   "main": "src/main.js",
   "dependencies": {
     "babel-polyfill": "^6.0.16"
@@ -21,21 +20,7 @@
     "babel-preset-es2015": "^6.0.15",
     "babel-preset-stage-0": "^6.0.15"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/jamesknelson/webpack-black-triangle.git"
-  },
   "scripts": {
     "start": "node_modules/webpack-dev-server/bin/webpack-dev-server.js"
-  },
-  "keywords": [
-    "webpack",
-    "webpack-dev-server",
-    "template",
-    "starter",
-    "es6",
-    "babel"
-  ],
-  "author": "James K Nelson <james@jamesknelson.com>",
-  "license": "MIT"
+  }
 }
