@@ -1,7 +1,7 @@
 {
-  "name": "",
+  "name": "resume",
   "version": "0.1.0",
-  "description": "",
+  "description": "resume",
   "main": "src/main.js",
   "dependencies": {
     "babel-polyfill": "^6.0.16"
@@ -22,14 +22,10 @@
     "babel-preset-stage-0": "^6.0.15"
   },
   "repository": {
-    "type": "",
-    "url": ""
   },
   "scripts": {
     "start": "node_modules/webpack-dev-server/bin/webpack-dev-server.js"
   },
-  "keywords": [
-  ],
   "author": "",
-  "license": ""
+  "license": "MIT"
 }
